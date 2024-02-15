@@ -1,0 +1,10 @@
+body {
+    background-color:rgb(188, 230, 252);
+}
+
+li {
+    list-style: none;
+    font-family: Arial;
+    font-size: 44px;
+    color: rgb(0, 121, 109); 
+}
